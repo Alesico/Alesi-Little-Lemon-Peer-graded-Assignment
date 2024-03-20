@@ -1,8 +1,8 @@
-# Little Lemon Restaurant
+# Little Lemon Peer graded Assignment
+
+A demonstration of what I've learned during my course at Coursera 
 A dynamic, responsive website querying RESTful Table-booking API & MySQL Database. Features email confirmation and form validation functionality.
 
-### Note:
-Deployed website is temporarily unavailable to access while the website is under development.
 
 ![Screenshot](assets/readme-image1.png)
 ![Screenshot](assets/readme-image2.png)
