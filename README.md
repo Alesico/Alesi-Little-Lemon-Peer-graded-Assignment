@@ -33,4 +33,4 @@ A dynamic, responsive website querying RESTful Table-booking API & MySQL Databas
   - python3 manage.py migrate
   - python3 manage.py runserver
  
-Have fun! 
+
